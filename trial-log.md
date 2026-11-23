@@ -51,4 +51,6 @@ Note: the entry was drafted fresh in this session with the humanizer and ai-copy
 - Commit: (filled in after commit — see below).
 
 ## Commit record
-- (filled in after commit)
+- Commit `f53d44534c9fadb140b7fd54fbb9b0ae5e3cf4e8` — "One-line roast entry: laptop charger (95 chars)" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md). Pushed to origin main; `git ls-remote origin HEAD` matches local HEAD.
+- About verified via `gh repo view`: homepageUrl `https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610`, topics `ai-agents`, `bounties`, `makefun` (no hyphenated "make-fun").
+- Preflight sha256 (both runs): `878ac8f1936e5c82282c37e792d2eb2ec8e2f5f89c38ee7907fea70547fd1de9`.
