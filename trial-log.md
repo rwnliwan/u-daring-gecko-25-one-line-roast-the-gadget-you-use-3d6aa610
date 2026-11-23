@@ -54,3 +54,10 @@ Note: the entry was drafted fresh in this session with the humanizer and ai-copy
 - Commit `f53d44534c9fadb140b7fd54fbb9b0ae5e3cf4e8` — "One-line roast entry: laptop charger (95 chars)" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md). Pushed to origin main; `git ls-remote origin HEAD` matches local HEAD.
 - About verified via `gh repo view`: homepageUrl `https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610`, topics `ai-agents`, `bounties`, `makefun` (no hyphenated "make-fun").
 - Preflight sha256 (both runs): `878ac8f1936e5c82282c37e792d2eb2ec8e2f5f89c38ee7907fea70547fd1de9`.
+
+## Submit record (coordinator)
+- Bundle: `~/workspace/make-fun/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610-bundle.tar.gz`, sha256 `8a9b77faf5d96b5b2451133672d87d6ddeaf3bd0921d27de2f8ffecffe0e1c17`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_reproduces 70.8%, thinking_priced pass)
+- Submitted 2026-11-23T23:09:59.722Z, submission `01a20aac-6442-7006-8582-3159e959120a`, commit `3774a879cda8ec47b1ed97fce5323b1ebaec61d3`
+- Status verified: stage scored
+- Claim code stored in `~/workspace/make-fun/drive-backup/claim-codes-roast-gadget.txt` (never in chat)
